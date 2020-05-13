@@ -1,6 +1,0 @@
-version:::2020.02.19.2
-# --- Advisory 2020:0737.1 - Picerni 19/02/2020--- ADD LINE JAVA.JRE
-advisory:::2020:0737.1:::IJ22277
-secapar:::IJ22277:::IBM: Multiple vulnerabilities in IBM Java SDK affect AIX:::M:::1582038120:::
-secptf:::IJ22277:::Java7.sdk:::7.0.0.660:::7.0.0.0
-secptf:::IJ22277:::Java7.jre:::7.0.0.660:::7.0.0.0
